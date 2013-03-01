@@ -32,10 +32,11 @@
 |
 */
 
-Route::get('/', 'home@index');
-Route::get('artist/(:any)', 'artist@show');
-Route::get('support', 'support@index');
-Route::get('about', 'about@index');
+//Route::get('/', 'home@index');
+Route::get('/', array('as' => 'home', 'uses' => 'home@index'));
+Route::get('artist/(:any)', array('as' => 'artist', 'uses' => 'artist@show'));
+Route::get('support', array('as' => 'support', 'uses' => 'support@index'));
+Route::get('about', array('as' => 'about', 'uses' => 'about@index'));
 /*
 |--------------------------------------------------------------------------
 | Application 404 & 500 Error Handlers
