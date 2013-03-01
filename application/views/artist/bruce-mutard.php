@@ -11,17 +11,17 @@
 <div id="artist-content-image">
     <div class="slides">
         <div class="slides_container">
-            <div><a href="<?php URL::to('/img/artists/the-sacrifice-large.png')?>" title="Bruce Mutard">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/the-sacrifice.png')?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/the-sacrifice-large.png')?>" title="Bruce Mutard">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/the-sacrifice.png')?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/silencecover-large.png')?>" title="Bruce Mutard">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/silencecover.png')?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/silencecover-large.png')?>" title="Bruce Mutard">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/silencecover.png')?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/profile-pic-large.jpg')?>" title="Bruce Mutard">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/profile-pic.jpg')?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/profile-pic-large.jpg')?>" title="Bruce Mutard">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/profile-pic.jpg')?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/LTKY-half-title-web-large.jpg')?>" title="Bruce Mutard">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/LTKY-half-title-web.jpg')?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/LTKY-half-title-web-large.jpg')?>" title="Bruce Mutard">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/LTKY-half-title-web.jpg')?>"/></a>
             </div>
         </div>
     </div>

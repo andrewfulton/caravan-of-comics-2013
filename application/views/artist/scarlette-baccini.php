@@ -11,20 +11,20 @@
 <div id="artist-content-image">
     <div class="slides">
         <div class="slides_container">
-            <div><a href="<?php URL::to('/img/artists/Zombolette_cover_half-large.jpg');?>" title="Scarlette Baccini">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/Zombolette_cover_half.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/Zombolette_cover_half-large.jpg');?>" title="Scarlette Baccini">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/Zombolette_cover_half.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/violet_small-large.jpg');?>" title="Scarlette Baccini">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/violet_small.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/violet_small-large.jpg');?>" title="Scarlette Baccini">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/violet_small.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/Scarlette_Photo-large.jpg');?>" title="Scarlette Baccini">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/Scarlette_Photo.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/Scarlette_Photo-large.jpg');?>" title="Scarlette Baccini">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/Scarlette_Photo.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/comic-large.jpg');?>" title="Scarlette Baccini">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/comic.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/comic-large.jpg');?>" title="Scarlette Baccini">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/comic.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/Comic_Page_Sample-large.jpg');?>" title="Scarlette Baccini">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/Comic_Page_Sample.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/Comic_Page_Sample-large.jpg');?>" title="Scarlette Baccini">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/Comic_Page_Sample.jpg');?>"/></a>
             </div>
         </div>
     </div>

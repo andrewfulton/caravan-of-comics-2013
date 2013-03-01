@@ -12,8 +12,8 @@
 <div id="artist-content-image">
     <div class="slides">
         <div class="slides_container">
-            <div><a href="<?php URL::to('/img/artists/D-Hayward-large.jpg');?>" title="Dan Hayward">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/D-Hayward.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/D-Hayward-large.jpg');?>" title="Dan Hayward">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/D-Hayward.jpg');?>"/></a>
             </div>
         </div>
     </div>

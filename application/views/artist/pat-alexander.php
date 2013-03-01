@@ -12,14 +12,14 @@
 <div id="artist-content-image">
     <div class="slides">
         <div class="slides_container">
-            <div><a href="<?php URL::to('/img/artists/p-alexander-art-02_CMYK-large.jpg');?>" title="Patrick Alexander">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/p-alexander-art-02_CMYK.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/p-alexander-art-02_CMYK-large.jpg');?>" title="Patrick Alexander">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/p-alexander-art-02_CMYK.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/p-alexander-portrait_RGB-large.jpg');?>" title="Patrick Alexander">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/p-alexander-portrait_RGB.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/p-alexander-portrait_RGB-large.jpg');?>" title="Patrick Alexander">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/p-alexander-portrait_RGB.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/p-alexander-art-01_CMYK-large.jpg');?>" title="Patrick Alexander">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/p-alexander-art-01_CMYK.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/p-alexander-art-01_CMYK-large.jpg');?>" title="Patrick Alexander">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/p-alexander-art-01_CMYK.jpg');?>"/></a>
             </div>
         </div>
     </div>

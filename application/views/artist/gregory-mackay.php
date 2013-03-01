@@ -11,17 +11,17 @@
 <div id="artist-content-image">
     <div class="slides">
         <div class="slides_container">
-            <div><a href="<?php URL::to('/img/artists/FB-1-large.jpg');?>" title="Gregory Mackay">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/FB-1.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/FB-1-large.jpg');?>" title="Gregory Mackay">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/FB-1.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/cover-large.jpg');?>" title="Gregory Mackay">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/cover.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/cover-large.jpg');?>" title="Gregory Mackay">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/cover.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/27-large.jpg');?>" title="Gregory Mackay">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/27.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/27-large.jpg');?>" title="Gregory Mackay">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/27.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/23-large.jpg');?>" title="Gregory Mackay">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/23.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/23-large.jpg');?>" title="Gregory Mackay">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/23.jpg');?>"/></a>
             </div>
 
         </div>

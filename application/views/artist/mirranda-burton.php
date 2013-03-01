@@ -11,17 +11,17 @@
 <div id="artist-content-image">
     <div class="slides">
         <div class="slides_container">
-            <div><a href="<?php URL::to('/img/artists/small_cover-large.jpg');?>" title="Mirranda Burton">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/small_cover.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/small_cover-large.jpg');?>" title="Mirranda Burton">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/small_cover.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/ps2_web-large.jpg');?>" title="Mirranda Burton">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/ps2_web.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/ps2_web-large.jpg');?>" title="Mirranda Burton">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/ps2_web.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/ps1_web-large.jpg');?>" title="Mirranda Burton">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/ps1_web.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/ps1_web-large.jpg');?>" title="Mirranda Burton">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/ps1_web.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/MBurton_portrait2-large.jpg');?>" title="Mirranda Burton">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/MBurton_portrait2.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/MBurton_portrait2-large.jpg');?>" title="Mirranda Burton">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/MBurton_portrait2.jpg');?>"/></a>
             </div>
         </div>
     </div>

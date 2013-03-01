@@ -12,23 +12,23 @@
 <div id="artist-content-image">
     <div class="slides">
         <div class="slides_container">
-            <div><a href="<?php URL::to('/img/artists/Marijka-large.jpg');?>" title="Marijka Gooding">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/Marijka.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/Marijka-large.jpg');?>" title="Marijka Gooding">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/Marijka.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/strange_4-large.jpg');?>" title="Marijka Gooding">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/strange_4.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/strange_4-large.jpg');?>" title="Marijka Gooding">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/strange_4.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/Marijka2-large.jpg');?>" title="Marijka Gooding">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/Marijka2.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/Marijka2-large.jpg');?>" title="Marijka Gooding">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/Marijka2.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/Me-large.jpg');?>" title="Marijka Gooding">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/Me.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/Me-large.jpg');?>" title="Marijka Gooding">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/Me.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/strange_5-large.jpg');?>" title="Marijka Gooding">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/strange_5.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/strange_5-large.jpg');?>" title="Marijka Gooding">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/strange_5.jpg');?>"/></a>
             </div>
-            <div><a href="<?php URL::to('/img/artists/strange_2-large.jpg');?>" title="Marijka Gooding">
-                <img width="380" height="380" src="<?php URL::to('/img/artists/strange_2.jpg');?>"/></a>
+            <div><a href="<?php print URL::to('/img/artists/strange_2-large.jpg');?>" title="Marijka Gooding">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/strange_2.jpg');?>"/></a>
             </div>
         </div>
     </div>
