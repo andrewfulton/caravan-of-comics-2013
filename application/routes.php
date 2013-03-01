@@ -32,11 +32,10 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('home.index');
-});
-
+Route::get('/', 'home@index');
+Route::get('artist/(:any)', 'artist@show');
+Route::get('support', 'support@index');
+Route::get('about', 'about@index');
 /*
 |--------------------------------------------------------------------------
 | Application 404 & 500 Error Handlers

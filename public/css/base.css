@@ -1,0 +1,350 @@
+ body 
+{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+ body {
+  font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+  font-size:14px;
+  line-height:18px;
+}
+
+ p
+{
+  margin-top:0;
+}
+
+ h1,
+ h2,
+ h3
+{
+  font-family: "league-gothic", sans-serif;
+  font-weight: normal;
+  text-transform:uppercase;
+  margin:0;
+  padding:0;
+}
+
+header a{
+  text-decoration:none;
+  color:inherit;
+}
+ #artists a,
+ #nav a
+{
+  font-family: "league-gothic", sans-serif;
+  text-transform: uppercase;
+  font-size:1.4em;
+  line-height:22px;
+}
+
+
+
+ header h2
+{
+  background-color:#eb8401;
+}
+
+
+ #nav
+{
+  background-color:#db121a;
+}
+ #nav h2
+{
+ background-color:#db121a;
+ color:white;
+}
+
+ #nav a:link,
+ #nav a:hover,
+ #nav a:visited
+{
+  text-decoration:none;
+  color:inherit;
+}
+
+ #nav a.home
+ {
+ background-color:#7db700;
+ }
+ #nav a.home:hover
+ {
+ background-color:#a6eb0d;
+ }
+ #nav a.support
+{
+  background-color:#2cb7cc;
+}
+#nav a.support:hover
+{
+  background-color:#9ef1ff;
+}
+ #nav a.press,#nav a.blog
+{
+  background-color:#e34748;
+}
+ #nav a.press:hover,#nav a.blog:hover
+{
+  background-color:#ffbab8;
+}
+
+
+
+ #artists-content
+{
+  background-color:#68272B; /* Disguising the fact that the artists list and the content area are different heights*/
+}
+
+
+ #artists h2
+{
+  background-color:#f9c500;
+}
+
+ #artists ul,
+ #artists li
+{
+  margin:0;
+  padding:0
+}
+
+ #artists li
+{
+  list-style:none;
+}
+
+ #artists li a {
+  text-decoration:none;
+  color:white;
+  white-space:nowrap;
+}
+ #artists li a:hover {
+  color:#7DB700;
+}
+
+ #artist-content,
+ #content
+{
+  background-color:white;
+}
+
+ #artist-content-text h2
+{
+  color:white;
+  background-color:#7DB700;
+  text-align:left;
+  padding-left:16px;
+}
+
+ #artist-content-text a:link,
+ #artist-content-text a:visited,
+ #artist-content-text a:hover
+{
+ color:#009FDD;
+ text-decoration:none;	
+}
+
+ #artist-content-text ul,
+ #artist-content-text li
+{
+  list-style:none;
+  padding:0;
+}
+
+ #artist-content-text .publisher
+{
+  font-style:italic;
+}
+
+
+ ul.pagination
+{
+  margin:0;
+  padding:0;
+  
+}
+ ul.pagination li
+{
+  list-style:none;
+  float:left;
+  display:inline;
+}
+ ul.pagination li a
+{
+  display:block;
+  width:24px;
+  height:24px;
+  text-align:center;
+  line-height:24px;
+  color:white;
+  margin-right:2px;
+  background-color:#E34748;
+  text-decoration:none;
+}
+
+ ul.pagination li.current a
+{
+  background-color:#7DB700;
+}
+
+ #contact
+{
+  overflow:hidden; /* float fixer */
+}
+
+ #contact,
+ #contact li
+{
+  margin:0;
+  padding:0
+}
+
+ #contact li{
+  display:inline;
+  float:left;
+  list-style:none;
+}
+
+ #contact li a{
+  display:block;
+  width:51px;
+  height:48px;
+  background-image:url(../img/contact-sprite.png);
+  background-repeat:no-repeat;
+  text-indent:-9999px;
+}
+ .contact-twitter { background-position: -51px 0;}
+ .contact-youtube { background-position: -51px -48px;}
+
+
+
+ footer
+{
+  clear:both;
+  background-color:#f4a200;
+     color:#7a5100;
+  padding: 10px;
+  font-size:0.8em;
+  text-align:center;
+}
+footer a{
+    text-decoration:none;
+    color:#352300;
+    border-bottom:1px dotted black;
+}
+ #blog-preview
+{
+  background-color:white;
+  border-radius:10px;
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;
+  padding:24px 42px;
+}
+
+ #blog-preview .date
+{
+  text-transform:uppercase;
+  font-size:smaller;
+  font-family: "league-gothic", sans-serif;
+  color:#666;
+}
+
+ #blog-preview .more-link{
+  float:right;
+  color:#009FDD;
+  font-size:smaller;
+  text-decoration:none;
+  font-style:italic;
+}
+
+ .bruce-mutard #artists .bruce-mutard a{color:#7DB700;}
+ .mirranda-burton #artists .mirranda-burton a{color:#7DB700;}
+ .scarlette-baccini #artists .scarlette-baccini a{color:#7DB700;}
+ .pat-alexander #artists .pat-alexander a{color:#7DB700;}
+ .gregory-mackay #artists .gregory-mckay a{color:#7DB700;}
+ .marijka-gooding #artists .marijka-gooding a{color:#7DB700;}
+ .dan-hayward #artists .dan-hayward a{color:#7DB700;}
+ .doug-holgate #artists .doug-holgate a{color:#7DB700;}
+
+ #artists .friends a{color:#F9C500;}
+ 
+#content-about
+{
+ min-height:600px;
+  background-color:white;
+}
+#content-about h2
+{
+  color: white;
+  background-color: #7DB700;
+  text-align: left;
+  padding-left: 16px;
+}
+#content-about p
+{
+  padding:16px;
+}
+#content-about .youtube5container,
+#content-about iframe
+{
+  margin:16px;
+}
+table 
+{
+  background-color:white;
+  border-collapse:collapse;
+  border-spacing:0;
+  width:100%;
+}
+table
+table td,
+table th,
+table tr
+{
+  margin:0;
+  vertical-align:top;
+  border:0;
+}
+table th
+{
+  background-color:#EB8401;
+  font-family:"league-gothic",sans-serif;
+  text-transform:uppercase;
+  font-size:22px;
+  font-weight:normal;
+  padding:6px 12px;
+}
+table td
+{
+  padding:6px 12px;
+}
+table td a{
+  color:#009FDD;
+  font-size:smaller;
+  text-decoration:none;
+  font-style:italic;
+}
+
+.get-on-board
+{
+background-color: #7DB700;
+padding: 4px 8px;
+font-family: "league-gothic";
+text-transform: uppercase;
+font-size: 1.2em;
+color:white;
+text-decoration:none;
+}
+.get-on-board:hover
+ {
+ background-color:#a6eb0d;
+ color:black;
+ }
+tr.note td
+{
+  background-color:#F9C500;
+  text-align:center;
+}
