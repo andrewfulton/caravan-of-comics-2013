@@ -34,7 +34,7 @@
             </span>
             <span class='nav-right'>
               <a class="support" href="<?php print URL::to_route('support'); ?>" title="Get on board the caravan">Support!</a>
-              <a class="blog" href="http://2012-diary.caravanofcomics.com" title="Stay up to date">Blog</a>
+             
 
             </span>
         </section>
