@@ -95,6 +95,9 @@
   float:none;
   padding:20px 12px;
 }
+#artist-content-image{
+    height:360px;
+}
 #artist-content-image .slides,
 #artist-content-image img
 {
