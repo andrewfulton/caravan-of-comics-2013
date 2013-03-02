@@ -4,7 +4,7 @@
     <div id="artist-content-text-inner">
         <p>New to the Melbourne Comics scene, Marijka is a recent graduate from Monash University Visual Communications with Honours, whose thesis is the remarkable, beguiling, beautiful graphic novel, <em>Strange Behaviour</em> (self-published, 2012). She considers herself an expert on 'strange', considering spends a lot of her time sitting at a drawing board in a dimly lit room, surrounded by empty take-away containers and crusted-over cereal bowls, writing about the world in pictures.</p>
         <ul class="links">
-            <li><a href="https://www.marijkagooding.com">www.marijkagooding.com</a></li>
+            <li><a href="http://www.marijkagooding.com/">marijkagooding.com</a></li>
             <li><a href="http://marijkagooding.blogspot.com.au/">marijkagooding.blogspot.com.au</a></li>
         </ul>
     </div>
