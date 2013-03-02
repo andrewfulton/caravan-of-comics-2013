@@ -27,7 +27,7 @@
             <h2><span class="epic">An epic tour of </span>the finest Australian cartoonists <span class="epic">money can buy</span></h2>
         </header>
         <section id="nav">
-            <h2><span class="epic">May-June 2012. </span><span class="cities">Canada and North America</span></h2>
+            <h2><span class="epic">May-June 2013. </span><span class="cities">Canada and North America</span></h2>
             <span class='nav-left'>
               <a class="home" href="<?php print URL::to_route('home'); ?>" title="home">Home</a>
               <a class="press" href="<?php print URL::to_route('about'); ?>" title="All about where we'll be">Details</a>
