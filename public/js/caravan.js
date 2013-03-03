@@ -48,9 +48,9 @@ function show_tumblr(data){
 $(function(){
     $("#artist-content-image .slides").slides();
     $('.slides_container a').lightBox({
-      imageLoading:'/images/lightbox-ico-loading.gif',
-      imageBtnClose:'/images/lightbox-btn-close.gif',
-      imageBtnPrev:'/images/lightbox-btn-prev.gif',
-      imageBtnNext:'/images/lightbox-btn-next.gif',
+      imageLoading:'/img/lightbox-ico-loading.gif',
+      imageBtnClose:'/img/lightbox-btn-close.gif',
+      imageBtnPrev:'/img/lightbox-btn-prev.gif',
+      imageBtnNext:'/img/lightbox-btn-next.gif',
     });
 });
