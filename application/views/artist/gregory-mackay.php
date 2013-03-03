@@ -23,6 +23,12 @@
             <div><a href="<?php print URL::to('/img/artists/23-large.jpg');?>" title="Gregory Mackay">
                 <img width="380" height="380" src="<?php print URL::to('/img/artists/23.jpg');?>"/></a>
             </div>
+            <div><a href="<?php print URL::to('/img/artists/gregory-mackay-large.jpg');?>" title="Gregory Mackay">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/gregory-mackay.jpg');?>"/></a>
+            </div>
+            <div><a href="<?php print URL::to('/img/artists/01-large.jpg');?>" title="Gregory Mackay">
+                <img width="380" height="380" src="<?php print URL::to('/img/artists/01.jpg');?>"/></a>
+            </div>
 
         </div>
     </div>
