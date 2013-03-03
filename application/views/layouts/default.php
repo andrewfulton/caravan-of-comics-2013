@@ -34,7 +34,7 @@
             </span>
             <span class='nav-right'>
               <a class="support" href="<?php print URL::to_route('support'); ?>" title="Get on board the caravan">Support!</a>
-             
+
 
             </span>
         </section>
@@ -45,7 +45,7 @@
                     <li class='bruce-mutard'><a href="<?php print URL::to_route('artist'); ?>/bruce-mutard" title="Bruce Mutard">Bruce Mutard</a></li>
                     <li class='mirranda-burton'><a href="<?php print URL::to_route('artist'); ?>/mirranda-burton" title="Mirranda Burton">Mirranda Burton</a></li>
                     <li class='scarlette-baccini'><a href="<?php print URL::to_route('artist'); ?>/scarlette-baccini" title="Scarlette Baccini">Scarlette Baccini</a></li>
-                    <li class='pat-alexander'><a href="<?php print URL::to_route('artist'); ?>/pat-alexander" title="Patrick Alexander">Patrick Alexander</a></li>
+                    <li class='patrick-alexander'><a href="<?php print URL::to_route('artist'); ?>/patrick-alexander" title="Patrick Alexander">Patrick Alexander</a></li>
                     <li class='gregory-mackay'><a href="<?php print URL::to_route('artist'); ?>/gregory-mackay" title="Gregory Mackay">Gregory Mackay</a></li>
                     <li class='marijka-gooding'><a href="<?php print URL::to_route('artist'); ?>/marijka-gooding" title="Marijka Gooding">Marijka Gooding</a></li>
                     <li class='dan-hayward'><a href="<?php print URL::to_route('artist'); ?>/dan-hayward" title="Dan Hayward">Dan Hayward</a></li>

@@ -10,7 +10,7 @@ class Artist_Controller extends Base_Controller
           'bruce-mutard' => 'Bruce Mutard',
           'mirranda-burton' => 'Mirranda Burton',
           'scarlette-baccini' => 'Scarlette Baccini',
-          'pat-alexander' => 'Patrick Alexander',
+          'patrick-alexander' => 'Patrick Alexander',
           'gregory-mackay' => 'Gregory Mackay',
           'marijka-gooding' => 'Marijka Gooding',
           'dan-hayward' => 'Dan Hayward',
