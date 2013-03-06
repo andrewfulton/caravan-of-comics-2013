@@ -3,9 +3,14 @@
   width:304px;
   height:222px;
   background-image:url(../img/caravan-320.png);
+  background-repeat:no-repeat;
   margin:0;
 }
 .friends
 {
   clear:both;
+}
+#contact{
+    clear:both;
+    padding-top:1em;
 }

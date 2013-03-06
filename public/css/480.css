@@ -76,6 +76,7 @@
   width:450px;
   height:320px;
   background-image:url(../img/caravan-450.png);
+  background-repeat:no-repeat;
   margin: 0 auto;
 }
 

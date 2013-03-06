@@ -103,14 +103,15 @@
   overflow:hidden;
   background-image:url(../img/caravan-large.png);
   background-repeat:no-repeat;
-  min-height:555px;
+  background-position:bottom center;
+  min-height:775px;
 }
  #content-text
 {
-  width:380px;
+  width:auto;
   float:right;
   padding:20px;
-  background-color:rgba(255,255,255,0.6)
+  background-color:transparent;
 }
 
  #artist-content
