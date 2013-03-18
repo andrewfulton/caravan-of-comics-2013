@@ -1,6 +1,6 @@
 
 
-<section id="content">
+<section id="content" style="background-image:none;">
     <div id="content-about">
         <h2>How do I get aboard the Caravan?</h2>
 
