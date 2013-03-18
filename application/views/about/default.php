@@ -14,7 +14,7 @@
 
             <tr class="even">
                 <td>May 8th</td>
-                <td>A screening and presentation of <strong>Graphic Novels! Melbourne!</strong> at the <a href="http://www.tranzac.org">Toronto Australia New Zealand Cultural Club</a>. 292 Brunswick Avenue, in Toronto, Ontario</td>
+                <td>A screening and presentation of <strong>Graphic Novels! Melbourne!</strong> at the <a href="http://www.rainbowcinemas.ca/A/?theatre=Carlton&">The Carlton Cinema</a>. 20 Carlton St at Yonge, Toronto, ON</td>
 
             </tr>
 
@@ -34,19 +34,9 @@
                 <td>In store presentation, mini expo and screening of Graphic Novels! Melbourne! at <a href="http://www.fantagraphics.com/fantagraphics-bookstore-gallery-2.html">Fantagraphics Bookshop</a> in Seattle, 1201 South Vale 	Street (at Airport Way S.) Seattle, WA 98108</td>
             </tr>
 
-            <tr class="even">
-                <td>May 25-26th</td>
-                <td>The <strong>Vancouver Comic Arts Festival</strong></td>
-            </tr>
-
             <tr class="odd">
                 <td>May 23-25th</td>
-                <td><strong>International Comic Arts Forum</strong> in Portland, OR, where Bruce Mutard will present a paper, an artist’s presentation and a screening of Graphic Novels! Melbourne! documentary.</td>
-            </tr>
-
-            <tr class="even">
-                <td>June 15-16th</td>
-                <td>Bruce Mutard will present at the <strong>Chicago Alternative Comics Expo</strong> (CAKE)</td>
+                <td><strong>International Comic Arts Forum</strong> in Portland, OR, where Bruce Mutard will present a paper, "Out Of The Gutter And Into The Panel: Comics closure as qualia of art imitating life." The conference is open to the public and free. Register at: <a href="http://www.internationalcomicartsforum.org/2013-conference-info.html">http://www.internationalcomicartsforum.org/2013-conference-info.html</a></td>
             </tr>
 
             <tr class="note">
